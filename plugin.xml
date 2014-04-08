@@ -35,6 +35,7 @@
 
     <framework src="Social.framework" />
     <framework src="MessageUI.framework" />
+    <framework src="Accounts.framework" />
   </platform>
 
   <!-- android -->
